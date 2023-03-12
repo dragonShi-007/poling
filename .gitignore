@@ -1,0 +1,6 @@
+# Project exclude paths
+/demo/target/
+/poling-agent/target/
+
+*.iml
+.idea
